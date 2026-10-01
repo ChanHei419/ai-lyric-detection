@@ -1,5 +1,6 @@
 # AI Lyric Detection System
 
+![Tests](https://github.com/ChanHei419/ai-lyric-detection/actions/workflows/tests.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/%F0%9F%A4%97_Transformers-Wav2Vec2-FFD21E)
