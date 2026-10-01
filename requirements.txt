@@ -1,0 +1,12 @@
+# Models and audio
+demucs>=4.0.1
+torch>=2.2
+torchaudio>=2.2
+transformers>=4.46
+datasets>=3.0
+
+# API and UI
+fastapi>=0.115
+uvicorn>=0.32
+python-multipart>=0.0.9
+gradio>=4.44
